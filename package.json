@@ -1,6 +1,6 @@
 {
   "name": "dragovic-modal-package",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A package to show or hide a modal",
   "main": "./build/index.js",
   "scripts": {
