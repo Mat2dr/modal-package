@@ -3,11 +3,6 @@ import ReactDOM from "react-dom";
 import "./Modal.css";
 import { CSSTransition } from 'react-transition-group'
 
-/**
- * @name Modal
- * @description the modal component
- * @return {JSX.Element}} 
- */
 export const Modal = props => {
 
     const closeOnEscapeKeyDown = e => {
